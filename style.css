@@ -37,9 +37,24 @@ h2 {
   display: flex;
   gap: 70px;
   padding: 40px;
+}
+
+.section {
   flex: 1
 }
 
-.para {
-  margin-top: 30px;
+.sidebar {
+  width: 300px;
+}
+
+h3 {
+  padding: 10px;
+  background-color: coral;
+  color: #fff;
+}
+
+li {
+  padding: 10px;
+  background-color: #f4f4f4;
+  border-bottom: 1px solid #ccc;
 }
